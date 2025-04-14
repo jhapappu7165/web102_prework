@@ -26,11 +26,12 @@ Here's a walkthrough of the implemented features:
 <a href="https://www.loom.com/share/d48d27ed8cf24c42966bbb1b1414fdf2?sid=496ac07a-5a47-4ad0-8367-31cbbf7c4f4e" target="_blank">
   Video Walkthrough
 </a>
+
 Video created with Loom
 
 ## Notes
 
-As I am still learning JavaScript in the WEB 101 course, I had some issues with understanding the syntax of code. However, I sorted them out by reviewing the provided resources as well as external documentation on JavaScript.
+As I am still learning JavaScript in the WEB 101 course, I had difficulties understanding the syntax of certain JavaScript features. However, I sorted them out by reviewing the provided resources as well as external documentation on JavaScript.
 
 ## License
 
