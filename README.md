@@ -23,10 +23,17 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of the implemented features:
 
-<img src='https://www.loom.com/share/d48d27ed8cf24c42966bbb1b1414fdf2?sid=496ac07a-5a47-4ad0-8367-31cbbf7c4f4e' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe src="https://www.loom.com/embed/d48d27ed8cf24c42966bbb1b1414fdf2?sid=496ac07a-5a47-4ad0-8367-31cbbf7c4f4e"
+    frameborder="0"
+    webkitallowfullscreen
+    mozallowfullscreen
+    allowfullscreen
+    width="640"
+    height="360"
+    title="Video Walkthrough">
 
-<!-- Loom -->
-GIF created with ...  
+</iframe>
+GIF created with Loom
 
 ## Notes
 
